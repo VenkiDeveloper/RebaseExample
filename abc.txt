@@ -1,2 +1,3 @@
 welcome to rebase example.
 rebased rb1 branch to rb2.
+merged rb1 branc to master.
